@@ -1,0 +1,36 @@
+window.I18N_CA = {
+  skip: 'Saltar al contingut', n1: 'Ull de gat', n2: 'Treballs', n3: 'Serveis', n4: 'On som', cita: 'Demanar hora',
+  hk: 'Ungles prèmium by Mary Danciu', h1a: 'Ungles impecables,', h1b: 'al centre de Girona',
+  hp: 'Manicura i pedicura amb productes de qualitat i eines esterilitzades. Més de 12 anys d’experiència. T’atenem en castellà, anglès i romanès.',
+  citaWa: 'Demanar hora per WhatsApp', see: 'Veure treballs', rate: 'a Google · 100 ressenyes', hint: 'Mou el cursor: és l’imant',
+  ih: 'L’efecte ull de gat', ip: 'És un esmalt amb partícules magnètiques: amb un imant col·loquem la línia de llum on vulguis. Tria un color i passa el dit o el cursor per sobre de les ungles.',
+  swL: 'Color', ask: 'El vull així',
+  th: 'Treballs de l’estudi', g1: 'Ungles bordeus amb brillantor i un anell daurat', g2: 'Ungles blau nit amb efecte ull de gat', g3: 'Ungles nude rosades en forma d’ametlla', g4: 'Francesa amb línia blau elèctric', g5: 'Francesa amb punta cromada', g6: 'Ungles nude amb detalls cromats en espiral', g7: 'Ungles llargues rosa clar sobre roba texana', g8: 'Francesa amb punta rosa', more: 'Més a Instagram',
+  sh: 'Serveis', s1h: 'Manicura', s1p: 'Cura de cutícules, forma i esmaltat. T’aconsellem sobre la llargada, la forma i el color que et queden millor.',
+  s2h: 'Pedicura', s2p: 'Peus cuidats i ungles perfectes, amb la mateixa cura que a les mans.',
+  s3h: 'Dissenys', s3p: 'Francesa, cromat, ull de gat, brillantor i nail art. Porta’ns la teva idea o deixa’t aconsellar.',
+  s4h: 'La teva seguretat, primer', s4p: 'Treballem amb productes d’alta qualitat que compleixen la normativa europea i esterilitzem totes les eines.',
+  snote: 'Preus i durada: pregunta’ns per WhatsApp i et responem de seguida.',
+  aEst: 'L’estudi de YAYA Nails, lluminós, amb taula de manicura i plantes', mh: 'La Mary t’aconsella',
+  mp: 'La Mary fa més de 12 anys que fa ungles. Perfeccionista en cada traç, et recomana el que millor va amb les teves mans i el teu dia a dia.',
+  vh: 'Galeria Girona Bulevard', d1: 'Adreça', d2: 'Horari', d2v: 'Entre setmana, de 8:00 a 19:00. Cap de setmana tancat. Confirma la teva hora per WhatsApp.', d3: 'Contacte', d4: 'Idiomes', d4v: 'Castellà, anglès i romanès',
+  lg1: 'Avís legal', lg2: 'Privacitat', lg3: 'Galetes', lg4: 'Configurar galetes'
+};
+window.I18N_EN = {
+  skip: 'Skip to content', n1: 'Cat eye', n2: 'Our work', n3: 'Services', n4: 'Find us', cita: 'Book',
+  hk: 'Premium nails by Mary Danciu', h1a: 'Flawless nails,', h1b: 'in the centre of Girona',
+  hp: 'Manicures and pedicures with quality products and sterilised tools. Over 12 years of experience. We speak Spanish, English and Romanian.',
+  citaWa: 'Book on WhatsApp', see: 'See our work', rate: 'on Google · 100 reviews', hint: 'Move your cursor: it is the magnet',
+  ih: 'The cat-eye effect', ip: 'It is a polish with magnetic particles: with a magnet we place the line of light wherever you like. Pick a colour and move your finger or cursor over the nails.',
+  swL: 'Colour', ask: 'I want this one',
+  th: 'Work from the studio', g1: 'Burgundy glitter nails with a gold ring', g2: 'Midnight blue cat-eye nails', g3: 'Pinkish nude almond nails', g4: 'French manicure with an electric blue line', g5: 'French manicure with chrome tips', g6: 'Nude nails with chrome swirls', g7: 'Long light pink nails on denim', g8: 'French manicure with pink tips', more: 'More on Instagram',
+  sh: 'Services', s1h: 'Manicure', s1p: 'Cuticle care, shaping and polish. We advise you on the length, shape and colour that suit you best.',
+  s2h: 'Pedicure', s2p: 'Cared-for feet and perfect nails, with the same attention as your hands.',
+  s3h: 'Designs', s3p: 'French, chrome, cat eye, glitter and nail art. Bring us your idea or let us advise you.',
+  s4h: 'Your safety comes first', s4p: 'We use high-quality products that meet EU regulations and we sterilise every tool.',
+  snote: 'Prices and timings: ask us on WhatsApp and we will reply straight away.',
+  aEst: 'The bright YAYA Nails studio, with a manicure table and plants', mh: 'Mary advises you',
+  mp: 'Mary has been doing nails for over 12 years. A perfectionist in every stroke, she recommends what best suits your hands and your daily life.',
+  vh: 'Galería Girona Bulevard', d1: 'Address', d2: 'Opening hours', d2v: 'Weekdays, 8:00 to 19:00. Closed at weekends. Confirm your slot on WhatsApp.', d3: 'Contact', d4: 'Languages', d4v: 'Spanish, English and Romanian',
+  lg1: 'Legal notice', lg2: 'Privacy', lg3: 'Cookies', lg4: 'Cookie settings'
+};
