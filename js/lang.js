@@ -14,7 +14,7 @@ window.I18N_CA = {
   aEst: 'L’estudi de YAYA Nails, lluminós, amb taula de manicura i plantes', mh: 'La Mary t’aconsella',
   mp: 'La Mary fa més de 12 anys que fa ungles. Perfeccionista en cada traç, et recomana el que millor va amb les teves mans i el teu dia a dia.',
   vh: 'Galeria Girona Bulevard', d1: 'Adreça', d2: 'Horari', d2v: 'Entre setmana, de 8:00 a 19:00. Cap de setmana tancat. Confirma la teva hora per WhatsApp.', d3: 'Contacte', d4: 'Idiomes', d4v: 'Castellà, anglès i romanès',
-  lg1: 'Avís legal', lg2: 'Privacitat', lg3: 'Galetes', lg4: 'Configurar galetes'
+  lg1: 'Avís legal', lg2: 'Privacitat', lg3: 'Galetes', lg4: 'Configurar galetes', prev: 'Anterior', next: 'Següent', galL: 'Galeria de treballs'
 };
 window.I18N_EN = {
   skip: 'Skip to content', n1: 'Cat eye', n2: 'Our work', n3: 'Services', n4: 'Find us', cita: 'Book',
@@ -32,5 +32,5 @@ window.I18N_EN = {
   aEst: 'The bright YAYA Nails studio, with a manicure table and plants', mh: 'Mary advises you',
   mp: 'Mary has been doing nails for over 12 years. A perfectionist in every stroke, she recommends what best suits your hands and your daily life.',
   vh: 'Galería Girona Bulevard', d1: 'Address', d2: 'Opening hours', d2v: 'Weekdays, 8:00 to 19:00. Closed at weekends. Confirm your slot on WhatsApp.', d3: 'Contact', d4: 'Languages', d4v: 'Spanish, English and Romanian',
-  lg1: 'Legal notice', lg2: 'Privacy', lg3: 'Cookies', lg4: 'Cookie settings'
+  lg1: 'Legal notice', lg2: 'Privacy', lg3: 'Cookies', lg4: 'Cookie settings', prev: 'Previous', next: 'Next', galL: 'Gallery of our work'
 };
